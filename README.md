@@ -1,6 +1,6 @@
 # Madnessverse
 
-[![Release](https://jitpack.io/v/lukamadness777/madnessverse.svg)](https://jitpack.io/#lukamadness777/madnessverse)
+[![](https://jitpack.io/v/lukamadness777/madnessverse.svg)](https://jitpack.io/#lukamadness777/madnessverse)
 
 Madnessverse is an API mod for Minecraft (Fabric and NeoForge, via Architectury) that allows
 other mods to add and remove dimensions during server runtime. It's a Fabric/NeoForge port of
