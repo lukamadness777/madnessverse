@@ -16,8 +16,8 @@ suggestions.
 
 Built mod jars are available here:
 
-* TODO: CurseForge link
-* TODO: Modrinth link
+* [CurseForge](https://www.curseforge.com/minecraft/mc-mods/madnessverse)
+* [Modrinth](https://modrinth.com/mod/madnessverse)
 
 ## Dependency Setup
 
